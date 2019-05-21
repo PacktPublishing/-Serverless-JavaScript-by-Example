@@ -20,9 +20,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for JavaScript web developers who want to get into Serverless JavaScript development. Basic JavaScript programming knowledge is needed, but no prior knowledge either of AWS Lambda or any other related tools is needed. However, some information on the techniques of server-side development would be helpful.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-2GB RAM
-500GB Hard-disk storage
-Serverless
+2GB RAM<br/>
+500GB Hard-disk storage<br/>
+Serverless<br/>
 
 ## Related Products
 * [Mastering GitLab [Video]](https://www.packtpub.com/networking-and-servers/mastering-gitlab-video?utm_source=github&utm_medium=repository&utm_campaign=9781789537642)
